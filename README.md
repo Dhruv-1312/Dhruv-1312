@@ -18,7 +18,7 @@
 
 ### 👨‍💻: About Me :
 I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Developer and contributing to frontend for building mobile applications.
+- :telescope: I’m working as a Software Developer at **Suraasa** and contributing to frontend for building mobile applications.
 
 - :seedling: I’m currently learning **Nodejs and AWS**.
 
