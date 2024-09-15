@@ -32,7 +32,7 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 📫 How to reach me **mail- dhruvdhall86@gmail.com, LinkedIn- https://www.linkedin.com/in/dhruv-dhall-85534724b/**
 
-- ⚡ Fun fact **I love Baking and playing badminton**
+- ⚡ Fun fact **I love Baking and studying about geopolitics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
